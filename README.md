@@ -19,7 +19,7 @@ Node.js 的新特性
 ### 8. [javascript 周报](https://juejin.im/post/5cb6c7b3f265da03bb6faaad)
 
 ## 干货
-### 1. [灵活使用 console让js调试更简单](https://segmentfault.com/a/1190000018756503)
-### 2.[css flexbox可视化手册](https://segmentfault.com/a/1190000018056228)
-### 3. [worktoflow](https://code2flow.com/)
-### 4. [css-curtor](http://css-cursor.techstream.org/)
+### 1. [css-curtor](http://css-cursor.techstream.org/)
+### 2. [worktoflow](https://code2flow.com/)
+### 3. [灵活使用 console让js调试更简单](https://segmentfault.com/a/1190000018756503)
+### 4.[css flexbox可视化手册](https://segmentfault.com/a/1190000018056228)
